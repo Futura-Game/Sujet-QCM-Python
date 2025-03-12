@@ -1,7 +1,7 @@
-# Importer le fichier avec le chemin complet
+# Spécifiez le chemin du fichier
 fichier_chemin = r"C:\Users\thomas\OneDrive\Documents\Bureau\Repositories\Sujet-QCM-Python\Liste de question avec des proposition.txt"
 
-# Utilisez ce chemin pour lire le fichier
-with open(fichier_chemin, 'r') as file:
+# Essayez d'ouvrir le fichier avec l'encodage 'latin-1'
+with open(fichier_chemin, 'r', encoding='latin-1') as file:
     contenu = file.read()
-    print(contenu)  # Affiche le contenu du fichier pour vérification
+    print(contenu)  # Affiche le contenu du fichier pour vérifier
