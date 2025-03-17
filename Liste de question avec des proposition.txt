@@ -1,140 +1,140 @@
 Q1) Quelle est la couleur du ciel par beau temps ?
-Bleu
-Rouge
-Vert
-Jaune
-Réponse : 1
+1 : Bleu
+2 : Rouge
+3 : Vert
+4 : Jaune
+Réponse : Bleu
 
 Q2) Combien font 2 + 2 ?
-3
-4
-5
-6
-Réponse : 2
+1 : 3
+2 : 4
+3 : 5
+4 : 6
+Réponse : 4
 
 Q3) Quel est le plus grand océan du monde ?
-Atlantique
-Pacifique
-Indien
-Arctique
-Réponse : 2
+1 : Atlantique
+2 : Pacifique
+3 : Indien
+4 : Arctique
+Réponse : Pacifique
 
 Q4) Quelle planète est surnommée la planète rouge ?
-Terre
-Mars
-Jupiter
-Vénus
-Réponse : 2
+1 : Terre
+2 : Mars
+3 : Jupiter
+4 : Vénus
+Réponse : Mars
 
 Q5) Quel animal aboie ?
-Chat
-Chien
-Cheval
-Souris
-Réponse : 2
+1 : Chat
+2 : Chien
+3 : Cheval
+4 : Souris
+Réponse : Chien
 
 Q6) Quel est le nombre de continents sur Terre ?
-4
-5
-6
-7
-Réponse : 4
+1 : 4
+2 : 5
+3 : 6
+4 : 7
+Réponse : 7
 
-Q7) Combien de côtés a un triangle ?
-2
-3
-4
-5
-Réponse : 2
+Q7) Combien de côtés à un triangle ?
+1 : 2
+2 : 3
+3 : 4
+4 : 5
+Réponse : 3
 
 Q8) Quelle est la capitale de l'Allemagne ?
-Madrid
-Berlin
-Rome
-Paris
-Réponse : 2
+1 : Madrid
+2 : Berlin
+3 : Rome
+4 : Paris
+Réponse : Berlin
 
 Q9) Quel est l'animal le plus rapide sur terre ?
-Guépard
-Lion
-Éléphant
-Tortue
-Réponse : 1
+1 : Guépard
+2 : Lion
+3 : Éléphant
+4 : Tortue
+Réponse : Guépard
 
 Q10) Combien de mois dans une année ?
-10
-11
-12
-13
-Réponse : 3
+1 : 10
+2 : 11
+3 : 12
+4 : 13
+Réponse : 12
 
 Q11) Quelle est la boisson la plus consommée dans le monde après l'eau ?
-Coca-Cola
-Thé
-Café
-Jus d'orange
-Réponse : 2
+1 : Coca-Cola
+2 : Thé
+3 : Café
+4 : Jus d'orange
+Réponse : Thé
 
 Q12) Qui a peint la Joconde ?
-Vincent van Gogh
-Pablo Picasso
-Léonard de Vinci
-Claude Monet
-Réponse : 3
+1 : Vincent van Gogh
+2 : Pablo Picasso
+3 : Léonard de Vinci
+4 : Claude Monet
+Réponse : Léonard de Vinci
 
 Q13) Quel est le métal principal dans les pièces de 1€ ?
-Fer
-Or
-Cuivre
-Nickel
-Réponse : 4
+1 : Fer
+2 : Or
+3 : Cuivre
+4 : Nickel
+Réponse : Nickel
 
 Q14) Quelle est la capitale du Canada ?
-Toronto
-Montréal
-Ottawa
-Vancouver
-Réponse : 3
+1 : Toronto
+2 : Montréal
+3 : Ottawa
+5 : Vancouver
+Réponse : Ottawa
 
 Q15) Quel est l'animal emblème de la Chine ?
-Tigre
-Dragon
-Panda
-Serpent
-Réponse : 3
+1 : Tigre
+2 : Dragon
+3 : Panda
+4 : Serpent
+Réponse : Panda
 
 Q16) Combien de doigts à une main humaine ?
-3
-4
-5
-6
-Réponse : 3
+1 : 3
+2 : 4
+3 : 5
+4 : 6
+Réponse : 5
 
 Q17) Quel est le gaz le plus abondant dans l'atmosphère terrestre ?
-Oxygène
-Dioxyde de carbone
-Azote
-Hydrogène
-Réponse : 3
+1 : Oxygène
+2 : Dioxyde de carbone
+3 : Azote
+4 : Hydrogène
+Réponse : Azote
 
 Q18) Qui a écrit "Les Misérables" ?
-Victor Hugo
-Molière
-Albert Camus
-Jules Verne
-Réponse : 1
+1 : Victor Hugo
+2 : Molière
+3 : Albert Camus
+4 : Jules Verne
+Réponse : Victor Hugo
 
 Q19) Quel est le sport national du Japon ?
-Football
-Sumo
-Baseball
-Judo
-Réponse : 2
+1 : Football
+2 : Sumo
+3 : Baseball
+4 : Judo
+Réponse : Sumo
 
 Q20) Quelle est la capitale de l'Espagne ?
-Lisbonne
-Madrid
-Barcelone
-Séville
-Réponse : 2
+1 : Lisbonne
+2 : Madrid
+3 : Barcelone
+4 : Séville
+Réponse : Madrid
 
