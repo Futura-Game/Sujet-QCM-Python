@@ -54,7 +54,7 @@ Rome
 Paris
 Réponse : 2
 
-Q9) Quel est l’animal le plus rapide sur terre ?
+Q9) Quel est l'animal le plus rapide sur terre ?
 Guépard
 Lion
 Éléphant
@@ -96,14 +96,14 @@ Ottawa
 Vancouver
 Réponse : 3
 
-Q15) Quel est l’animal emblème de la Chine ?
+Q15) Quel est l'animal emblème de la Chine ?
 Tigre
 Dragon
 Panda
 Serpent
 Réponse : 3
 
-Q16) Combien de doigts a une main humaine ?
+Q16) Combien de doigts à une main humaine ?
 3
 4
 5
@@ -131,7 +131,7 @@ Baseball
 Judo
 Réponse : 2
 
-Q20) Quelle est la capitale de l’Espagne ?
+Q20) Quelle est la capitale de l'Espagne ?
 Lisbonne
 Madrid
 Barcelone
