@@ -1,140 +1,140 @@
-Q1) Quelle est la couleur du ciel par beau temps ?
-1 : Bleu
-2 : Rouge
-3 : Vert
-4 : Jaune
-Réponse : Bleu
+Q1) Quelle est la langue la plus parlée dans le monde ?
+1 : Anglais
+2 : Espagnol
+3 : Mandarin
+4 : Arabe
+Réponse : Mandarin
 
-Q2) Combien font 2 + 2 ?
-1 : 3
-2 : 4
-3 : 5
-4 : 6
-Réponse : 4
+Q2) Quelle est la plus grande planète du système solaire ?
+1 : Saturne
+2 : Uranus
+3 : Jupiter
+4 : Neptune
+Réponse : Jupiter
 
-Q3) Quel est le plus grand océan du monde ?
-1 : Atlantique
-2 : Pacifique
-3 : Indien
-4 : Arctique
-Réponse : Pacifique
+Q3) Dans quel pays se trouve la ville de Kyoto ?
+1 : Chine
+2 : Corée du Sud
+3 : Japon
+4 : Thaïlande
+Réponse : Japon
 
-Q4) Quelle planète est surnommée la planète rouge ?
+Q4) Quel est l’organe principal de la respiration ?
+1 : Cœur
+2 : Estomac
+3 : Poumon
+4 : Foie
+Réponse : Poumon
+
+Q5) Qui a inventé l’ampoule électrique ?
+1 : Thomas Edison
+2 : Nikola Tesla
+3 : Benjamin Franklin
+4 : Alexander Graham Bell
+Réponse : Thomas Edison
+
+Q6) Quelle est la monnaie utilisée au Royaume-Uni ?
+1 : Euro
+2 : Livre sterling
+3 : Dollar
+4 : Couronne
+Réponse : Livre sterling
+
+Q7) Quelle est la capitale de l’Australie ?
+1 : Sydney
+2 : Melbourne
+3 : Canberra
+4 : Brisbane
+Réponse : Canberra
+
+Q8) Quel est le plus long fleuve du monde ?
+1 : Amazone
+2 : Nil
+3 : Yangtsé
+4 : Mississippi
+Réponse : Amazone
+
+Q9) Quel fruit a son nom dans une couleur ?
+1 : Kiwi
+2 : Orange
+3 : Banane
+4 : Fraise
+Réponse : Orange
+
+Q10) Quelle est la température de congélation de l’eau ?
+1 : 0°C
+2 : 32°C
+3 : -10°C
+4 : 100°C
+Réponse : 0°C
+
+Q11) Quel est le symbole chimique de l’or ?
+1 : Au
+2 : Ag
+3 : Fe
+4 : O
+Réponse : Au
+
+Q12) Combien de lettres dans l’alphabet français ?
+1 : 24
+2 : 25
+3 : 26
+4 : 27
+Réponse : 26
+
+Q13) Quelle est la planète la plus proche du Soleil ?
 1 : Terre
 2 : Mars
-3 : Jupiter
-4 : Vénus
-Réponse : Mars
+3 : Vénus
+4 : Mercure
+Réponse : Mercure
 
-Q5) Quel animal aboie ?
-1 : Chat
-2 : Chien
-3 : Cheval
-4 : Souris
-Réponse : Chien
+Q14) Dans quelle ville se trouve la tour Eiffel ?
+1 : Rome
+2 : Londres
+3 : Paris
+4 : Madrid
+Réponse : Paris
 
-Q6) Quel est le nombre de continents sur Terre ?
-1 : 4
-2 : 5
-3 : 6
-4 : 7
-Réponse : 7
+Q15) Quel est le principal ingrédient du guacamole ?
+1 : Avocat
+2 : Tomate
+3 : Citron
+4 : Pomme
+Réponse : Avocat
 
-Q7) Combien de côtés à un triangle ?
-1 : 2
-2 : 3
-3 : 4
-4 : 5
-Réponse : 3
+Q16) Que célèbre-t-on le 14 juillet en France ?
+1 : Noël
+2 : La fête nationale
+3 : La révolution industrielle
+4 : La rentrée scolaire
+Réponse : La fête nationale
 
-Q8) Quelle est la capitale de l'Allemagne ?
-1 : Madrid
-2 : Berlin
-3 : Rome
-4 : Paris
-Réponse : Berlin
+Q17) Quelle invention est attribuée à Gutenberg ?
+1 : Boussole
+2 : Machine à vapeur
+3 : Imprimerie
+4 : Téléphone
+Réponse : Imprimerie
 
-Q9) Quel est l'animal le plus rapide sur terre ?
-1 : Guépard
-2 : Lion
-3 : Éléphant
-4 : Tortue
-Réponse : Guépard
+Q18) Quelle est la couleur complémentaire du rouge ?
+1 : Bleu
+2 : Vert
+3 : Jaune
+4 : Orange
+Réponse : Vert
 
-Q10) Combien de mois dans une année ?
-1 : 10
-2 : 11
-3 : 12
-4 : 13
-Réponse : 12
+Q19) Quel est le pays d’origine du tango ?
+1 : Brésil
+2 : Espagne
+3 : Argentine
+4 : Mexique
+Réponse : Argentine
 
-Q11) Quelle est la boisson la plus consommée dans le monde après l'eau ?
-1 : Coca-Cola
-2 : Thé
-3 : Café
-4 : Jus d'orange
-Réponse : Thé
-
-Q12) Qui a peint la Joconde ?
-1 : Vincent van Gogh
-2 : Pablo Picasso
-3 : Léonard de Vinci
-4 : Claude Monet
-Réponse : Léonard de Vinci
-
-Q13) Quel est le métal principal dans les pièces de 1€ ?
-1 : Fer
-2 : Or
-3 : Cuivre
-4 : Nickel
-Réponse : Nickel
-
-Q14) Quelle est la capitale du Canada ?
-1 : Toronto
-2 : Montréal
-3 : Ottawa
-5 : Vancouver
-Réponse : Ottawa
-
-Q15) Quel est l'animal emblème de la Chine ?
-1 : Tigre
-2 : Dragon
-3 : Panda
-4 : Serpent
-Réponse : Panda
-
-Q16) Combien de doigts à une main humaine ?
-1 : 3
-2 : 4
-3 : 5
-4 : 6
-Réponse : 5
-
-Q17) Quel est le gaz le plus abondant dans l'atmosphère terrestre ?
-1 : Oxygène
-2 : Dioxyde de carbone
-3 : Azote
-4 : Hydrogène
-Réponse : Azote
-
-Q18) Qui a écrit "Les Misérables" ?
-1 : Victor Hugo
-2 : Molière
-3 : Albert Camus
-4 : Jules Verne
-Réponse : Victor Hugo
-
-Q19) Quel est le sport national du Japon ?
-1 : Football
-2 : Sumo
-3 : Baseball
-4 : Judo
-Réponse : Sumo
-
-Q20) Quelle est la capitale de l'Espagne ?
-1 : Lisbonne
-2 : Madrid
-3 : Barcelone
-4 : Séville
-Réponse : Madrid
+Q20) Combien de zéros dans un milliard ?
+1 : 6
+2 : 7
+3 : 8
+4 : 9
+Réponse : 9
 

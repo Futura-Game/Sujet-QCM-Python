@@ -1,140 +1,174 @@
-Q1) Quelle est la couleur du ciel par beau temps ?
-1 : Bleu
-2 : Rouge
-3 : Vert
-4 : Jaune
-RÈponse†: Bleu
+Quel r√©alisateur a dirig√© le film "Le Parrain" ?
+Steven Spielberg
+Francis Ford Coppola
+Martin Scorsese
+Quentin Tarantino
+2
 
-Q2) Combien font 2 + 2 ?
-1 : 3
-2 : 4
-3 : 5
-4 : 6
-RÈponse†: 4
+Quel acteur a jou√© le r√¥le de Jack Dawson dans "Titanic" ?
+Leonardo DiCaprio
+Brad Pitt
+Tom Hanks
+Johnny Depp
+1
 
-Q3) Quel est le plus grand ocÈan du monde ?
-1 : Atlantique
-2 : Pacifique
-3 : Indien
-4 : Arctique
-RÈponse†: Pacifique
+Quel film a remport√© l'Oscar du meilleur film en 2020 ?
+"1917"
+"The Irishman"
+"Parasite"
+"Joker"
+3
 
-Q4) Quelle planËte est surnommÈe la planËte rouge ?
-1 : Terre
-2 : Mars
-3 : Jupiter
-4 : VÈnus
-RÈponse†: Mars
+Quel est le nom du personnage principal de la saga "Harry Potter" ?
+Ron Weasley
+Hermione Granger
+Harry Potter
+Drago Malefoy
+3
 
-Q5) Quel animal aboie ?
-1 : Chat
-2 : Chien
-3 : Cheval
-4 : Souris
-RÈponse†: Chien
+Quel r√©alisateur est connu pour ses films de science-fiction tels que "Inception" et "Interstellar" ?
+James Cameron
+Ridley Scott
+Christopher Nolan
+Denis Villeneuve
+3
 
-Q6) Quel est le nombre de continents sur Terre ?
-1 : 4
-2 : 5
-3 : 6
-4 : 7
-RÈponse†: 7
+Quelle actrice a jou√© le r√¥le de la princesse Leia dans la saga "Star Wars" ?
+Sigourney Weaver
+Meryl Streep
+Carrie Fisher
+Natalie Portman
+3
 
-Q7) Combien de cÙtÈs ‡ un triangle ?
-1 : 2
-2 : 3
-3 : 4
-4 : 5
-RÈponse†: 3
+Quel film d'animation a remport√© l'Oscar du meilleur film d'animation en 2021 ?
+"Soul"
+"En avant"
+"Les Mitchell contre les machines"
+"Soul"
+4
 
-Q8) Quelle est la capitale de l'Allemagne ?
-1 : Madrid
-2 : Berlin
-3 : Rome
-4 : Paris
-RÈponse†: Berlin
+Quel acteur a jou√© le r√¥le de Joker dans le film "The Dark Knight" ?
+Jack Nicholson
+Heath Ledger
+Joaquin Phoenix
+Jared Leto
+2
 
-Q9) Quel est l'animal le plus rapide sur terre ?
-1 : GuÈpard
-2 : Lion
-3 : …lÈphant
-4 : Tortue
-RÈponse†: GuÈpard
+Quel r√©alisateur a dirig√© le film "Pulp Fiction" ?
+Steven Soderbergh
+David Fincher
+Quentin Tarantino
+les fr√®res Coen
+3
 
-Q10) Combien de mois dans une annÈe ?
-1 : 10
-2 : 11
-3 : 12
-4 : 13
-RÈponse†: 12
+Quelle actrice a jou√© le r√¥le de Katniss Everdeen dans la saga "Hunger Games" ?
+Emma Stone
+Jennifer Aniston
+Jennifer Lawrence
+Scarlett Johansson
+3
 
-Q11) Quelle est la boisson la plus consommÈe dans le monde aprËs l'eau ?
-1 : Coca-Cola
-2 : ThÈ
-3 : CafÈ
-4 : Jus d'orange
-RÈponse†: ThÈ
+Quel film a remport√© la palme d'or au festival de cannes 2022 ?
+"As Bestas"
+"Armageddon Time"
+"Nostalgia"
+"Triangle of Sadness"
+4
 
-Q12) Qui a peint la Joconde ?
-1 : Vincent van Gogh
-2 : Pablo Picasso
-3 : LÈonard de Vinci
-4 : Claude Monet
-RÈponse†: LÈonard de Vinci
+Quel r√©alisateur a dirig√© le film "Le seigneur des anneaux" ?
+Guillermo del Toro
+Peter Jackson
+George Lucas
+Ron Howard
+2
 
-Q13) Quel est le mÈtal principal dans les piËces de 1Ä ?
-1 : Fer
-2 : Or
-3 : Cuivre
-4 : Nickel
-RÈponse†: Nickel
+Quel acteur a jou√© le r√¥le de Vito Corleone dans le film "Le Parrain" ?
+Al Pacino
+Marlon Brando
+Robert De Niro
+Joe Pesci
+2
 
-Q14) Quelle est la capitale du Canada ?
-1 : Toronto
-2 : MontrÈal
-3 : Ottawa
-5 : Vancouver
-RÈponse†: Ottawa
+Quelle actrice a jou√© le r√¥le de Cl√©op√¢tre dans le film "Cl√©op√¢tre" de 1963 ?
+Sophia Loren
+Audrey Hepburn
+Elizabeth Taylor
+Ava Gardner
+3
 
-Q15) Quel est l'animal emblËme de la Chine ?
-1 : Tigre
-2 : Dragon
-3 : Panda
-4 : Serpent
-RÈponse†: Panda
+Quel est le titre du premier film d'animation des studios Pixar ?
+Toy Story
+1001 pattes
+Monstres et Cie
+Le monde de Nemo
+1
 
-Q16) Combien de doigts ‡ une main humaine ?
-1 : 3
-2 : 4
-3 : 5
-4 : 6
-RÈponse†: 5
+Qui a r√©alis√© le film "Psychose" ?
+Orson Welles
+Fritz Lang
+Alfred Hitchcock
+Billy Wilder
+3
 
-Q17) Quel est le gaz le plus abondant dans l'atmosphËre terrestre ?
-1 : OxygËne
-2 : Dioxyde de carbone
-3 : Azote
-4 : HydrogËne
-RÈponse†: Azote
+Quel est le nom du vaisseau spatial de Han Solo dans "Star Wars" ?
+Le Faucon Millenium
+L'√âtoile Noire
+Le X-Wing
+Le TIE Fighter
+1
 
-Q18) Qui a Ècrit "Les MisÈrables" ?
-1 : Victor Hugo
-2 : MoliËre
-3 : Albert Camus
-4 : Jules Verne
-RÈponse†: Victor Hugo
+Quel acteur a jou√© le r√¥le de Travis Bickle dans "Taxi Driver" ?
+Harvey Keitel
+Robert De Niro
+Al Pacino
+Joe Pesci
+2
 
-Q19) Quel est le sport national du Japon ?
-1 : Football
-2 : Sumo
-3 : Baseball
-4 : Judo
-RÈponse†: Sumo
+Quel film a gagn√© l'oscar du meilleur film en 1994 ?
+Pulp Fiction
+Forrest Gump
+Schindler's List
+Les vestiges du jour
+3
 
-Q20) Quelle est la capitale de l'Espagne ?
-1 : Lisbonne
-2 : Madrid
-3 : Barcelone
-4 : SÈville
-RÈponse†: Madrid
+Quel est le nom du r√©alisateur du film "Le voyage de Chihiro" ?
+Isao Takahata
+Hayao Miyazaki
+Mamoru Hosoda
+Makoto Shinkai
+2
 
+Quel acteur est c√©l√®bre pour son r√¥le de James Bond dans de nombreux films de la franchise ?
+Tom Cruise
+Harrison Ford
+Sean Connery
+Brad Pitt
+3
+
+Quel r√©alisateur est connu pour ses films d'animation du Studio Ghibli, comme ¬´ Mon voisin Totoro ¬ª et ¬´ Le Ch√¢teau ambulant ¬ª ?
+Mamoru Hosoda
+Hayao Miyazaki
+Makoto Shinkai
+Satoshi Kon
+2
+
+Dans quel film Leonardo DiCaprio prononce la c√©l√®bre r√©plique ¬´ Je suis le roi du monde ! ¬ª ?
+Inception
+Le Loup de Wall Street
+Titanic
+Aviator
+3
+
+Quel film de science-fiction r√©alis√© par Stanley Kubrick est c√©l√®bre pour son intelligence artificielle HAL 9000 ?
+Blade Runner
+Alien
+2001, l'Odyss√©e de l'espace
+Matrix
+3
+
+Quelle actrice a remport√© l'Oscar de la meilleure actrice pour son r√¥le dans ¬´ La La Land ¬ª ?
+Emma Stone
+Natalie Portman
+Meryl Streep
+Emma Stone
+4
