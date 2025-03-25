@@ -106,5 +106,5 @@ def generer_sujet_docx(questions, numero_sujet, nom_fichier):
     print(f"📄 Sujet {numero_sujet} exporté avec style propre : {nom_fichier}")
 
 # Génération
-generer_sujet_docx(questions_formatees, numero_sujet=1, nom_fichier="QCM_Sujet_1_Reorganisé.docx")
+generer_sujet_docx(questions_formatees, numero_sujet=1, nom_fichier="QCM_Sujet_1.docx")
 
